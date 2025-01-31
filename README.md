@@ -1,4 +1,5 @@
-## Hi there 👋
+I'm Ibrahim Al Magharee, a 26-year-old Web Developer with a Bachelor's degree in Software Engineering. With over five years of professional experience, I specialize in Backend development and have strong proficiency in Frontend. My expertise includes PHP, Laravel, databases, RESTful APIs, and third-party integrations. Passionate about learning and growth, I am open mind person, I constantly seek to expand my knowledge and refine my skills.
+
 
 <!--
 **ibrahimalmagharee/ibrahimalmagharee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
