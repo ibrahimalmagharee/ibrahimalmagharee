@@ -20,7 +20,9 @@ Technical skills
 - JavaScript, JQuery, Ajax, , Vue.js 
 - MySQL
 - RESTful API, Third-party API
-- SaaS
+- Web Socket
+- OOP, Clean Coding
+- SaaS, Multi-Tenant Management
 - Agile Development and Tools , Analysis Requirements, Business Requirements  
 - OpenAI 
 - Docker, Linux, AWS
