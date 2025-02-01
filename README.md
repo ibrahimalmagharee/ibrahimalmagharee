@@ -17,7 +17,7 @@ Technical skills
 -------------------------
 - PHP, Laravel, Livewire, Laravel Nova
 - Bootstrap, Html, css
-- JavaScript, JQuery, Ajax, , Vue.js 
+- JavaScript, JQuery, Ajax, Vue.js 
 - MySQL
 - RESTful API, Third-party API
 - Web Socket
