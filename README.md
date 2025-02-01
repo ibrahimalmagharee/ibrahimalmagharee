@@ -19,7 +19,7 @@ Technical skills
 - Bootstrap, Html, css
 - JavaScript, JQuery, Ajax, , Vue.js 
 - MySQL
-- RESTful API, Third-part API
+- RESTful API, Third-party API
 - SaaS
 - Agile Development and Tools , Analysis Requirements, Business Requirements  
 - OpenAI 
