@@ -27,11 +27,11 @@ Technical skills
 - Jira, Postman, Slack
 - GitHub, Git
 
-  Let's Connect
-  ----------------------------------------
-  - 💼 <a href="https://www.linkedin.com/in/ibrahim-al-magharee-79081b172/">LinkedIn</a>
-  - 🟢 <a href="https://api.whatsapp.com/send/?phone=972592197910&text&type=phone_number&app_absent=0]">WhatsApp</a>
-  - 📧 <a href="mailto:ibrahimalmagree@gmail.com">ibrahimalmagree@gmail.com</a>
+Let's Connect
+----------------------------------------
+- 💼 <a href="https://www.linkedin.com/in/ibrahim-al-magharee-79081b172/">LinkedIn</a>
+- 🟢 <a href="https://api.whatsapp.com/send/?phone=972592197910&text&type=phone_number&app_absent=0]">WhatsApp</a>
+- 📧 <a href="mailto:ibrahimalmagree@gmail.com">ibrahimalmagree@gmail.com</a>
 
 <!--
 **ibrahimalmagharee/ibrahimalmagharee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
